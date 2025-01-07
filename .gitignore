@@ -1,0 +1,3 @@
+echo "alt_text_env/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.ipynb_checkpoints/" >> .gitignore
